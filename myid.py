@@ -1,2 +1,3 @@
-ID='id'
-PW = 'pwd'
+#username and password for Instagram
+ID='username'
+PW = 'password'
